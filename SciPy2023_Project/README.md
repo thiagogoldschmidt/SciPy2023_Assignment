@@ -44,6 +44,13 @@ To quantitatively assess the influence of ChatGPT on:
 2. **Authentication**: Use the credentials from the JSON file for authentication while making API requests.
 3. **Data Retrieval**: The `data_processing_API.py` script is designed to fetch survey data directly from the API using the provided credentials. Ensure that you have an active internet connection for seamless data retrieval.
 
+## Configuration Adjustments
+
+Before executing the scripts, it's essential to adjust the path to the Google service account credentials to reflect the location of the JSON file on your system. In the `data_processing_API.py` script, find the following line:
+
+CREDS_PATH = '/Users/thiagogoldschmidt/Desktop/SciPy2023_Project /bachelor-thesis-survey-5cfd13208281.json'
+
+
 ## Access to the Google Sheets
 Access to Survey Data: [Link to Google Sheet](https://drive.google.com/drive/folders/1N9qC-4LPg_ZCxZSAZTetjcau-rKYFxUp?usp=sharing)
 
