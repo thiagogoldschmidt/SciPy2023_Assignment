@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bachelor-thesis-survey",
+  "private_key_id": "5cfd13208281d38f59ab07f5945121ac4ce6707e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCYqbnsi62b5tID\n96TkMgaK0Li6G6ZBbvkuOWYbdZPclPESto122n/1r6USdSMaYSNiWlQGynohkf9d\nvvOoCCzmN5PaxiCLnRdhiE/2JstKuEEFj2OU2Q0dqlwkPHI/SvTMHMQ51kMo8BxC\n5H46Yzd1FOgTAzMtQVe8V4dwUSe5zJAjG4veAnX8GXR5uALmFa6QCXiKqWMvv7ZR\nAeRm+dSAKj3jgfzKn4t9B5DLQWVZXSjY2yFc5fo/Fisyot9f+7Wjp59wbWhQFTo1\nff6z6D336S0FgOdbTyY7B1OKjCN5w0Q/b9C9MaBQYs0zxCd3H7P8qXucAJtZPvej\naRDc+24DAgMBAAECggEAIUj4OaPmsVQtPCI1eG+Tz5ZcgG9g22lnuPVY1unW2EQ9\nH5hf1ackORwXwKN7iNffECWjpmtlH4amh/kHRP6rU3KQsSV7mRUiMOi4jnG850iv\nHJg73QtJ+crYFip7umMMZqhq/DVEJVvcvZT2FKLnR4bMZsDO2rIhf/YRmKKJJ9Ak\n83p4u+2cE8xnqbf3+YS4v+sbzAxHpf7OeL+3gUiKJAIVu0Oa0QLVOy+aMpjBuqk7\nHPdKQsLsAZt50fp0tvStMiWI1oJUpT1r7d44ZZCnhLu3ebriaB7NGcajzjTEVl0j\n6jIvY7UO4hKBi2CM1Hk0Mdx1g588cZ8l3mJOZe+Y2QKBgQDHX+IficB1qHLoj5VR\nZQI5UjrCGZu+OBW8pd2evWm/YPLdPOaOWGHPWYvS7enDMFFwPJoFzWJjawyTWAmR\nEbjaYKBm6GmLY9xneeaTHUbWzWnyEBP5Su9bTopQFSpiMt6WK+OAAkEP/7K+NTts\nND2nd5mTTAcBmsBYuO0w22/NRwKBgQDEBYqUCp4Njy0of0YeWjQ4qAiDruEuwOem\nudjlPTTv1EUo1ir0P7mC6joppJqB8KpMctyGGvxh127Pa7r+RKIhY0OCDqr2LIVW\nv+yoxmSvQKeb5L1Hu5xF0P36wRDx050sN05w+xIOTBy5qbyO9HJZbnVgVFVBzDCN\ncD2fCemHZQKBgGMuRbTeuAlP5OngE63MC9EsIOLSDnIQQG/6K0d+fo6f0fFRDHif\navjVWQNzKyjYborg+tYMF/fRFw5ta0TphgXMr77Bu0+GO+yV7agdllHhGeU7LlSD\nfJL1fUTdYpo7KBOYfbH+bRNiZi7NGGR5kHowuwtVdN7NdwYr6IK3huSdAoGBAIZ4\nPq578hzfIV1sog9kVfqf2udq6nMGRmOrjk0EBfKYLbFr6h+QL5TNVYUHtC57iHfV\nO86LaKM+BHgqMScIsigxTjhEE6e4tufh1Vmab6uBsPlSmz5AR13llrWUCCm8v097\nyUXcFnDUacg71mxC6MbM7ZxdffcbOhts6fjV9eu5AoGBAK+5q4OdMAOH6hJ0Qfdp\ntr1PkvK6ZGfOoCArvCnickp0twf9cFVNh4xCd1QwugVKDVoyIxrMlOYVW4aj9srn\nd/8sweST/7vlUnM/sXSti5lKojS0Id+2pkuXk7s+cM0MuJJl6KI/lQmPvuGB/9kF\nOOIzAWl73TEPw9I+Gslakt/X\n-----END PRIVATE KEY-----\n",
+  "client_email": "thesis-survey-sheets@bachelor-thesis-survey.iam.gserviceaccount.com",
+  "client_id": "114388673536817208561",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/thesis-survey-sheets%40bachelor-thesis-survey.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
